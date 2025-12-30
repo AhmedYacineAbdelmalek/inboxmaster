@@ -1,1 +1,0 @@
-A multi-tenant web app “Unified Inbox” where SMB teams manage social conversations (DMs + comments) across channels (FB, Instagram, WhatsApp, TikTok). The Inbox experience prioritizes: fast triage, quick replies, and clear collaboration cues.
